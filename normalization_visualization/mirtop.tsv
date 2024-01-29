@@ -1,0 +1,16 @@
+UID	Read	miRNA	Variant	iso_5p	iso_3p	iso_add3p	iso_snp	iso_5p_nt	iso_3p_nt	iso_add3p_nt	iso_snp_nt	SRR1028925_fastp_aligned	SRR1028924_fastp_aligned
+1	Read1	miR-21	Variant1	5p-iso1	3p-iso1	add3p-iso1	snp-iso1	5p-nt-iso1	3p-nt-iso1	add3p-nt-iso1	snp-nt-iso1	100	120
+2	Read2	miR-30	Variant2	5p-iso2	3p-iso2	add3p-iso2	snp-iso2	5p-nt-iso2	3p-nt-iso2	add3p-nt-iso2	snp-nt-iso2	80	90
+3	Read3	miR-155	Variant3	5p-iso3	3p-iso3	add3p-iso3	snp-iso3	5p-nt-iso3	3p-nt-iso3	add3p-nt-iso3	snp-nt-iso3	150	110
+4	Read4	miR-215	Variant1	5p-iso1	3p-iso1	add3p-iso1	snp-iso1	5p-nt-iso1	3p-nt-iso1	add3p-nt-iso1	snp-nt-iso1	100	120
+5	Read5	miR-305	Variant2	5p-iso2	3p-iso2	add3p-iso2	snp-iso2	5p-nt-iso2	3p-nt-iso2	add3p-nt-iso2	snp-nt-iso2	80	90
+6	Read6	miR-1555	Variant3	5p-iso3	3p-iso3	add3p-iso3	snp-iso3	5p-nt-iso3	3p-nt-iso3	add3p-nt-iso3	snp-nt-iso3	150	110
+7	Read7	miR-218	Variant1	5p-iso1	3p-iso1	add3p-iso1	snp-iso1	5p-nt-iso1	3p-nt-iso1	add3p-nt-iso1	snp-nt-iso1	100	120
+8	Read8	miR-307	Variant2	5p-iso2	3p-iso2	add3p-iso2	snp-iso2	5p-nt-iso2	3p-nt-iso2	add3p-nt-iso2	snp-nt-iso2	80	90
+9	Read9	miR-155	Variant3	5p-iso3	3p-iso3	add3p-iso3	snp-iso3	5p-nt-iso3	3p-nt-iso3	add3p-nt-iso3	snp-nt-iso3	150	110
+10	Read10	miR-156	Variant1	5p-iso1	3p-iso1	add3p-iso1	snp-iso1	5p-nt-iso1	3p-nt-iso1	add3p-nt-iso1	snp-nt-iso1	100	120
+11	Read11	miR-157	Variant2	5p-iso2	3p-iso2	add3p-iso2	snp-iso2	5p-nt-iso2	3p-nt-iso2	add3p-nt-iso2	snp-nt-iso2	80	90
+12	Read12	miR-158	Variant3	5p-iso3	3p-iso3	add3p-iso3	snp-iso3	5p-nt-iso3	3p-nt-iso3	add3p-nt-iso3	snp-nt-iso3	150	20
+13	Read13	miR-159	Variant1	5p-iso1	3p-iso1	add3p-iso1	snp-iso1	5p-nt-iso1	3p-nt-iso1	add3p-nt-iso1	snp-nt-iso1	100	2
+14	Read14	miR-160	Variant2	5p-iso2	3p-iso2	add3p-iso2	snp-iso2	5p-nt-iso2	3p-nt-iso2	add3p-nt-iso2	snp-nt-iso2	80	30
+15	Read15	miR-161	Variant3	5p-iso3	3p-iso3	add3p-iso3	snp-iso3	5p-nt-iso3	3p-nt-iso3	add3p-nt-iso3	snp-nt-iso3	150	40
