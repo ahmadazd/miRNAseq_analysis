@@ -4,8 +4,11 @@
 
   ## Scenario I
 -**Sample 01:**  Reads are mostly found for the wildtype. no significant read counts at the edited site ( HDR) so the genotype is homologous wildtype ( WT/WT), no insertion occurred.
+
 -**Sample 02:**  Reads are found in both sites the wildtype and the edited site (HDR) so the genotype is heterologous (WT/HDR), insertion happend only on one allele.
+
 -**Sample 03:** Reads are mostly are found for the edited site ( HDR) with a gap at the guide RNA in the wildtype, so the genotype is homologous for the edited site (HDR) ( HDR/HDR), full insertion occurred at both alleles.
+
 -**Sample 04:** Reads are mostly found for the wildtype. no significant read counts at the edited site ( HDR) so the genotype is homologous wildtype ( WT/WT), no insertion occurred.
  
 
@@ -56,7 +59,7 @@ Due to an alignment issues that prevented bowtie tool from mapping the reference
 - Using the workflow containers (Docker needs to be installed)
 *Docker image can be build from the Dockerfile* `mirnaseq/Dockerfile` using the following command 
 `docker build -t image_name -f mirnaseq/Dockerfile .`
-*nextflow command with docker/singularity *
+*nextflow command with docker/singularity*
 ``nextflow run main.nf --rawRead_directory rawFiles -profile conda with-docker [docker image] or -with-singularity [singularity/docker image file]``
   
 *NOTE...... The raw files (fastq) and the output of the fastp (fastq), bowtie(sam) and samtools(bam) are too big to be uploaded here!!!!!!!!!*
